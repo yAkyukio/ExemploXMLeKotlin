@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExemploXMLeKotlin</string>
+    <string name="name">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="telephone">Telefone:</string>
+    <string name="address">Endereço:</string>
+    <string name="complete">Completar</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="gender">Sexo:</string>
+</resources>
